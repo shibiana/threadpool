@@ -1,0 +1,3 @@
+/home/wangshuo/code/thread_pool/build/CMakeFiles/edit_cache.dir
+/home/wangshuo/code/thread_pool/build/CMakeFiles/rebuild_cache.dir
+/home/wangshuo/code/thread_pool/build/CMakeFiles/mythread_pool_cmake.dir
